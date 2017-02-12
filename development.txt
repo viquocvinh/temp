@@ -1,0 +1,13 @@
+Stragetry:
+freelance -> own startup
+
+
+How to make money:
+- Sell own product
+- Make free app <- getting money from ads
+
+
+Domain
+- Mobile
+- Web
+  |_ hosting and domain (Wordpress)
